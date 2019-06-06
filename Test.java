@@ -1,7 +1,7 @@
 public class Test {
 	
 	public void test() {
-		String foo = "Hello You!";
+		String foo = "Hello Us!";		
 	}
 
 }
