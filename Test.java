@@ -1,7 +1,7 @@
 public class Test {
 	
 	public void test() {
-		String foo = "Hello from the test-branch!";		
+		String foo = "Hello from Us in the test-branch!";		
 	}
 
 }
